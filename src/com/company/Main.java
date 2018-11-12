@@ -17,8 +17,7 @@ public class Main {
         }
 
         s.close();
-        //methods.ReadFile();
-
+        //methods.ReadFile();fjfhjf
 
 
         for (int i = 1; i <= maxIndx; i++) {
